@@ -53,8 +53,8 @@ algorithms available stack up.
 -  **Performance**: Data sets are only getting bigger. You can
    sub-sample (but see *stability*), but ultimately you need a
    clustering algorithm that can scale to large data sizes. A clustering
-   algorithm isn't much use if you can only use it if you take such a
-   small sub-sample that it is no longer representative of the data at
+   algorithm isn't of much use if you can only use it if you take such a
+   small sub-sample that is no longer representative of the data at
    large!
 
 There are other nice to have features like soft clusters, or overlapping
