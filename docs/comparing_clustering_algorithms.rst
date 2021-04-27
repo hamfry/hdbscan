@@ -8,7 +8,7 @@ alone. So what clustering algorithms should you be using? As with every
 question in data science and machine learning it depends on your data. A
 number of those thirteen classes in ``sklearn`` are specialised for
 certain tasks (such as co-clustering and bi-clustering, or clustering
-features instead data points). Obviously an algorithm specializing in
+features instead of data points). Obviously an algorithm specializing in
 text clustering is going to be the right choice for clustering text
 data, and other algorithms specialize in other specific kinds of data.
 Thus, if you know enough about your data, you can narrow down on the
